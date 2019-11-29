@@ -1,8 +1,0 @@
-com/example/demo/DemoApplication.class
-com/example/demo/mapper/PeopleMapper.class
-com/example/demo/dto/PeopleDto.class
-com/example/demo/model/People.class
-com/example/demo/repository/PeopleRepository.class
-com/example/demo/controller/PeopleController.class
-com/example/demo/mapper/PeopleMapperImpl.class
-com/example/demo/service/PeopleService.class
